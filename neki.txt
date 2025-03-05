@@ -8,9 +8,7 @@ git remote add origin https://github.com/Domchek/NSA-php.git
 
 
 
-zqa poatbalat
-
-
+posodobi
 git add .
 git commit -m"messge kle napis"
 git push

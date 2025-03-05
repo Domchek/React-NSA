@@ -1,0 +1,27 @@
+git config --global user.email domen.dobravec06@gmail.com
+git config --global user.name Domchek
+
+git init
+//u bravser nared se repository
+git remote add origin https://github.com/Domchek/NSA-php.git
+
+
+
+
+zqa poatbalat
+
+
+git add .
+git commit -m"messge kle napis"
+git push
+
+
+
+za clonat(kopirat)
+
+git clone hjttpsp:://hfjjfjfjf
+
+za downloat srvr
+
+git pull
+
